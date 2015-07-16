@@ -4,8 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        i write code here
-        okok
+        //   okok
                 fdsfsdfsdfsdf
 
     }
